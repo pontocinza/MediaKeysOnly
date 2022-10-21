@@ -1,0 +1,52 @@
+  __________________________________
+  __________________________________
+  
+  MediaKeysOnly 1.0.0   [2022.10.20]
+  __________________________________
+  __________________________________
+  
+  MediaKeysOnly é uma versão simplificada do programa MediaKeys. 
+  Ele é um script muito simples que atribui funções multimídia 
+  a algumas teclas do teclado numérico. O mapa das teclas está 
+  disponível no arquivo "MediaKeysOnly.png".
+  
+  Como as funções removidas do teclado numérico são redundantes, 
+  nenhuma funcionalidade é perdida com o uso do MediaKeysOnly. 
+  A tecla "NumLock" continuará alternando entre o uso das funções 
+  e o uso dos números para operações matemáticas, e a execução do 
+  MediaKeys poderá ser pausada ou interrompida por meio do ícone 
+  do programa na Bandeja do sistema.
+  
+  INSTALAÇÃO DO PROGRAMA
+  
+  O instalador do MediaKeysOnly (MediaKeysOnly-1.0.0-SETUP.exe) irá
+  instalar o executável na pasta de Programas e um atalho na pasta 
+  "Startup" do usuário. Assim, programa irá rodar automaticamente 
+  sempre que o Windows for iniciado.
+  
+  COMO DESINSTALAR O PROGRAMA
+  
+  Para desinstalar o MediaKeysOnly, siga estes passos:
+   
+  1. Exclua a pasta "C:\Program Files (86)\MediaKeysOnly".
+  2. Acesse a pasta "Startup" digitando "shell:startup" 
+     (sem as aspas) na barra de endereços do Windows 
+     Explorer e exclua o atalho "MediaKeysOnly".
+  
+  LICENÇA DE USO
+  
+  MediaKeysOnly é distribuído nos termos da GNU General Public 
+  License Versão 3 (gpl-3.0) que faz parte do pacote de distribuição 
+  do programa. Seu código-fonte pode ser livremente modificado e 
+  redistribuído de acordo com os termos dessa licença.
+  
+  O MediaKeysOnly foi desenvolvido e compilado com um sofisticado 
+  software de código aberto chamado AutoHotkey. Aos autores desse 
+  extraordinário programa, bem como ao GitHub, que hospeda este
+  minúsculo script, deixo aqui os meus agradecimentos.
+  
+  https://github.com/pontocinza/MediaKeysOnly
+  https://github.com/pontocinza/MediaKeys
+  20 de outubro de 2022
+  Francisco T. Fuchs
+  
