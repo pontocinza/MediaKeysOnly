@@ -1,0 +1,11 @@
+  
+  MediaKeysOnly 1.0.1  [2022.10.23]
+  https://github.com/pontocinza/MediaKeysOnly
+  
+  
+  Assigns media functions to the NumPad keys.
+  
+  
+  The map of the keys can be seen 
+  in the file "MediaKeysOnly.png".
+  

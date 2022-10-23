@@ -1,0 +1,65 @@
+  __________________________________
+  __________________________________
+  
+  MediaKeysOnly 1.0.1   [2022.10.23]
+  __________________________________
+  __________________________________
+  
+  MediaKeysOnly é uma versão simplificada do programa MediaKeys. 
+  Ele é um script muito simples que atribui funções multimídia 
+  a sete teclas do teclado numérico. Essa funções são aquelas 
+  normalmente utilizadas em reprodutores de música e vídeo, 
+  como Play/Pause, End, Mute e assim por diante. Também foi
+  adicionada às teclas Ins + PgDn do teclado numérico a função 
+  Alt + Tab. O mapa visual das teclas está disponível no arquivo 
+  "MediaKeysOnly.png".
+  
+  Como as funções do teclado numérico são redundantes, nenhuma 
+  funcionalidade é perdida com o uso do MediaKeysOnly. A tecla 
+  "NumLock" continuará alternando entre o uso das funções e o 
+  uso dos números para operações matemáticas e, caso seja 
+  necessário, a execução do MediaKeys poderá ser pausada ou 
+  interrompida por meio do ícone do programa na Bandeja do 
+  sistema.
+  
+  INSTALAÇÃO DO PROGRAMA
+  
+  O instalador do MediaKeysOnly (MediaKeysOnly-1.0.1-SETUP.exe) irá
+  instalar o executável na pasta de Programas e um atalho na pasta 
+  "Startup" do usuário. Assim, programa irá rodar automaticamente 
+  sempre que o Windows for iniciado.
+  
+  COMO DESINSTALAR O PROGRAMA
+  
+  Para desinstalar o MediaKeysOnly, siga estes passos:
+   
+  1. Exclua a pasta "C:\Program Files\MediaKeysOnly\".
+  2. Acesse a pasta "Startup" digitando "shell:startup" 
+     (sem as aspas) na barra de endereços do Windows 
+     Explorer e exclua o atalho "MediaKeysOnly".
+     
+  CHANGELOG
+  
+  1.0.1     [+] Adicionada a funcionalidade "Alt+Tab" (Ins+PgDn).
+            [*] Tal como o próprio MediaKeysOnly, o instalador 
+                agora roda exclusivamente em 64 bits.
+  1.0       Primeira versão.
+  
+  LICENÇA DE USO
+  
+  MediaKeysOnly é distribuído nos termos da GNU General Public 
+  License (Versão 3). Seu código-fonte pode ser livremente 
+  modificado e redistribuído de acordo com os termos dessa licença.
+  
+  AGRADECIMENTOS
+  
+  O MediaKeysOnly foi desenvolvido e compilado com um sofisticado 
+  software de código aberto chamado AutoHotkey. Aos autores desse 
+  extraordinário programa, bem como ao GitHub, que hospeda este
+  minúsculo script, deixo aqui os meus agradecimentos.
+  
+  https://github.com/pontocinza/MediaKeysOnly
+  https://github.com/pontocinza/MediaKeys
+  23 de outubro de 2022
+  Francisco T. Fuchs
+  
